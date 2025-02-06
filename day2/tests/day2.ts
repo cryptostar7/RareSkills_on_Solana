@@ -10,7 +10,12 @@ describe("day2", () => {
 
   it("Is initialized!", async () => {
     // Add your test here.
-    const tx = await program.methods.initialize().rpc();
+    const tx = await program.methods.initialize(new anchor.BN(777), new anchor.BN(888), "hello").rpc();
     console.log("Your transaction signature", tx);
   });
+
+  it("Array test", async () => {
+    const tx = await program.methods.array([new anchor.BN(777), new anchor.BN(888), new anchor.BN(999)]).rpc();
+    console.log("Your transaction signature", tx);
+  })
 });
