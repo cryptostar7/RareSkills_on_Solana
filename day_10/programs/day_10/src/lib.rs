@@ -13,7 +13,7 @@ pub mod day_10 {
 }
 
 fn get_a_num() -> u64 {
-    3
+    12
 }
 
 #[derive(Accounts)]
