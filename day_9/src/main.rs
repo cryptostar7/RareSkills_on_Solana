@@ -78,10 +78,6 @@
 //     println!("Boat Speed: {} km/h", boat_speed_kph); // 55.56 km/h
 // }
 
-/**
-* Need Explanation
-**/
-
 use macro_demo::*;
 
 #[foo_bar_attribute]
