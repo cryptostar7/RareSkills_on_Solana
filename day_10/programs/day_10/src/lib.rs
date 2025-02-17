@@ -99,7 +99,7 @@ pub mod day_10 {
     }
 
     fn test() -> Result<()> {
-        Ok((    ))
+        Ok(())
     }
 }
 
