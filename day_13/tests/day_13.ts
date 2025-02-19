@@ -10,7 +10,20 @@ describe("day_13", () => {
 
   it("Is initialized!", async () => {
     // Add your test here.
-    const tx = await program.methods.initialize().rpc();
-    console.log("Your transaction signature", tx);
+
+    const listenMyEvent = program.addEventListener('myEvent', (event, slot) => {
+      console.log(`slot ${slot} event value ${event.value}`);
+    });
+
+    const listenerMySecondEvent = program.addEventListener('mySecondEvent', (event, slot) => {
+      console.log(`slot ${slot} event value ${event.value}`);
+    })
+
+    await program.methods.initialize();
+
+    await new Promise((resolve) => setTimeout(resolve, 5000));
+
+    program.removeEventListener(listenMyEvent);
+    program.removeEventListener(listenerMySecondEvent);
   });
 });
