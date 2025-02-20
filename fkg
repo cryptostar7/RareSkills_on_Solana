@@ -1,0 +1,243 @@
+[33mcommit aaa15fd944d7b24b6490b91218373db2cc7020e7[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Wed Feb 19 17:17:20 2025 +0800
+
+    feat: initialize the day_14: tx.origin, msg.sender, onlyOwner on Solana
+
+[33mcommit a83e530f4ed9331e63e2242bd64cf583af23ae1b[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Wed Feb 19 16:58:16 2025 +0800
+
+    feat: complete day_13
+
+[33mcommit 0e381ab8a91a85b5e14fd472f9beeeb81b334be3[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Wed Feb 19 16:11:28 2025 +0800
+
+    feat: initialize the day_13: solana logs and events
+
+[33mcommit 5af016c0aed37df0ef35bc5611cffc328f8dc21a[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Wed Feb 19 16:08:43 2025 +0800
+
+    feat: complete the day_12
+
+[33mcommit b23b56b7b34219b58c00c40404fb3f06982f9591[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Wed Feb 19 12:38:36 2025 +0800
+
+    feat: initialize the day_12: Solana system variables chapter
+
+[33mcommit dcb697d8e7f250c446996d119e2dbf9749fff23e[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Mon Feb 17 16:08:35 2025 +0800
+
+    chore: leave the errors on data variable
+
+[33mcommit 4adf95b83a03792311b937979ca05caeebdddee2[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Mon Feb 17 15:21:40 2025 +0800
+
+    feat: initialize the day_11: solana clock and other block variables
+
+[33mcommit e4076ccb1dec92e4c38b7a41cbf4850129f59a8e[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Mon Feb 17 15:14:26 2025 +0800
+
+    feat: complete day_10
+
+[33mcommit f789f14e37269d961a7d6c7bb18fd3575328b56c[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 4766712 c830457
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Mon Feb 17 15:11:00 2025 +0800
+
+    fix: merge and fix
+
+[33mcommit 4766712b063d2128cea94252c1900369c9abda64[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Mon Feb 17 14:29:03 2025 +0800
+
+    feat: complete the day_10
+
+[33mcommit c83045745ae9a67aa84be620604aae6ce3d83828[m[33m ([m[1;31morigin/Develop[m[33m)[m
+Merge: 0a791d2 d084949
+Author: cryptostar7 <133494886+cryptostar7@users.noreply.github.com>
+Date:   Sat Feb 15 05:42:05 2025 +0800
+
+    Merge pull request #4 from cryptostar7/bug_fix
+    
+    Bug fix
+
+[33mcommit d0849494411942b38fbf64d55da48f4976cda7bd[m
+Merge: 49e6fb7 0a791d2
+Author: lucaslee129 <adfr486233@gmail.com>
+Date:   Sat Feb 15 05:38:34 2025 +0800
+
+    Merge branch 'main' of https://github.com/cryptostar7/RareSkills_on_Solana into bug_fix
+
+[33mcommit 49e6fb73e4fab2ef8ec9ab1a5bea1821b9afdbfd[m
+Author: lucaslee129 <adfr486233@gmail.com>
+Date:   Sat Feb 15 05:38:09 2025 +0800
+
+    feat: close the bug_fix repo
+
+[33mcommit a35b448e0592d925331924b219888c19c029b455[m
+Author: lucaslee129 <adfr486233@gmail.com>
+Date:   Sat Feb 15 04:56:25 2025 +0800
+
+    complete the fix repository
+
+[33mcommit 0a791d2503dc00319d36e64703a59fe915d52e9b[m
+Merge: e1603f0 bd66d84
+Author: cryptostar7 <133494886+cryptostar7@users.noreply.github.com>
+Date:   Sat Feb 15 04:38:19 2025 +0800
+
+    Merge pull request #3 from cryptostar7/bug_fix
+    
+    fix: marked the uncompleted part as comment
+
+[33mcommit bd66d84163a9bdd6f8d3c807b713bdf47b288c6a[m
+Author: lucaslee129 <adfr486233@gmail.com>
+Date:   Sat Feb 15 04:37:00 2025 +0800
+
+    fix: marked the uncompleted part as comment
+    
+    Co-authored-by: BitFancy <bitbanana717@gmail.com>
+
+[33mcommit e1603f061bf45c6a36c503a366b07897d5649eb4[m
+Merge: 55a6cf2 78162b9
+Author: cryptostar7 <133494886+cryptostar7@users.noreply.github.com>
+Date:   Sat Feb 15 04:34:08 2025 +0800
+
+    Merge pull request #2 from cryptostar7/bug_fix
+    
+    feat:
+
+[33mcommit 78162b92901064e9ff2b87faf0c387e26c5e2d6e[m
+Author: lucaslee129 <adfr486233@gmail.com>
+Date:   Sat Feb 15 04:32:19 2025 +0800
+
+    feat:
+    
+    Co-authored-by: hodl-verse <softeng.129@gmail.com>
+
+[33mcommit 55a6cf26c20c5d6fd496ab6ab3a0141524ef339a[m
+Merge: 1a5d815 385a86d
+Author: cryptostar7 <133494886+cryptostar7@users.noreply.github.com>
+Date:   Sat Feb 15 04:18:04 2025 +0800
+
+    Merge pull request #1 from cryptostar7/bug_fix
+    
+    fix: Correct the number of test case
+
+[33mcommit 385a86de2c91305b1c95e69750778ee22a8b44bc[m
+Author: lucaslee129 <adfr486233@gmail.com>
+Date:   Sat Feb 15 04:17:13 2025 +0800
+
+    fix: Correct the number of test case
+
+[33mcommit 1a5d815d6ae80d0918254ba738b30c24dd58b16e[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Sat Feb 15 04:07:36 2025 +0800
+
+    feat:
+    
+    Co-authored-by: BitFancy <bitbanana717@gmail.com>
+
+[33mcommit 3085ac0592f6fab1fdd1056864437e753a9fe888[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Sat Feb 15 04:05:44 2025 +0800
+
+    feat:
+    
+    Co-authored-by: BitFancy <bitbanana717@gmail.com>
+
+[33mcommit 05936f6ef36a0ddc633bfd6f43449038f77d38bd[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Wed Feb 12 17:26:35 2025 +0800
+
+    feat: initialize the day_10: visibility
+
+[33mcommit 60a0f1ec77724ee1cd48ad7f7dbd4e1d7f4a5c26[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Wed Feb 12 16:41:13 2025 +0800
+
+    feat: incomplete the day_9, need explanation about the macro
+
+[33mcommit 46730d41212bd097d49eab93dc735bc20cd3a806[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Wed Feb 12 13:58:42 2025 +0800
+
+    feat: complete the day_8 course
+
+[33mcommit dbf5ee5d1878c7cc027d572ea106a4f271d52e4f[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Wed Feb 12 13:36:28 2025 +0800
+
+    feat: initialize the day_8: Rust function-like procedural Macros
+
+[33mcommit f00fc859bf34d97de55326c533fdf71bd3f989a9[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Wed Feb 12 13:34:57 2025 +0800
+
+    feat: complete the day_7
+
+[33mcommit 27f3c555c2afc49d54da6303ab1e939432c727c2[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Mon Feb 10 16:34:22 2025 +0800
+
+    feat: complete the day 6 course:basic syntax of rust
+
+[33mcommit 309b5c57cca95668aee35086cd92ea4caac238b6[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Mon Feb 10 15:59:23 2025 +0800
+
+    feat: complete the day_5: constructor
+
+[33mcommit cbc88dec91639694feeaff482d63accd3b3585c3[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Sun Feb 9 01:11:58 2025 +0800
+
+    feat: initialize the day_5: upgradeable and do not have constructor
+
+[33mcommit 6e2de91df22f289b7568a63fd40aae9f9a703aec[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Sun Feb 9 01:03:15 2025 +0800
+
+    feat: complete the day4: errors
+
+[33mcommit 24bc94c9af313b8337a1d6eb8ef197ff8b89845a[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Thu Feb 6 15:37:35 2025 +0800
+
+    feat: initialize the day4 course: requirem revert, and custom errors in Solana
+
+[33mcommit a7c1a4552bbba18972f3d195e0009bf6e75cf40c[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Thu Feb 6 15:23:15 2025 +0800
+
+    feat: initialize the day3: anchor idl
+
+[33mcommit d1f3a35198e12a3a9c5379091adeae8e5e6fa05a[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Thu Feb 6 15:14:57 2025 +0800
+
+    feat: completed the day2
+
+[33mcommit 2244dc44f243573d04325ae8ae4a17b4adcf464a[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Thu Feb 6 14:17:30 2025 +0800
+
+    feat: initialize the day2 for rareskills tutorial: arithmetic and basic types in solana and rust
+
+[33mcommit 467ec2f5a146f234bce8374afeb989c3165cdc0d[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Thu Feb 6 13:54:53 2025 +0800
+
+    feat: update the anchor version 4 to 3 to fix the lock bug
+
+[33mcommit 63d6352623c8d18548f570558b6ad77faccb6f1a[m
+Author: Sora <sorasuzuki0427@gmail.com>
+Date:   Thu Feb 6 13:47:37 2025 +0800
+
+    feat: initialized the day1 course
