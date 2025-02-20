@@ -5,6 +5,3 @@ target
 node_modules
 test-ledger
 .yarn
-
-main.json
-mint.json
