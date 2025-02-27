@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-day_11 = "QiDoXEMhQmY9Q2uJzWRuxFGsoPFiyr4Fa9AMv9pNxzd"
+day_13 = "72hfAr9LadTVsxRHHnGGkxDDLFaJCK5iDYzct3pBDiBB"
 
 [registry]
 url = "https://api.apr.dev"
