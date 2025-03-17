@@ -15,8 +15,8 @@ pub mod transfer {
     pub fn transfer(ctx: Context<TransferTokens>) -> Result<()> {
         msg!("Transferring tokens...");
         msg!("Mint: {}", &ctx.accounts.mint_account.to_account_info().key());
-        msg!("From Token Address: {}", &ctx.accounts.sender_token_account.key())
-        msg!("To Token Address: {}", &ctx.accounts.recipient)
+        msg!("From Token Address: {}", &ctx.accounts.sender_token_account.key());
+        msg!("To Token Address: {}", &ctx.accounts.recipient);
     }
 }
 
